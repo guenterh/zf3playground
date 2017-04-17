@@ -1,0 +1,17 @@
+
+http://docs.php-http.org/en/latest/httplug/introduction.html#implementations
+http://docs.php-http.org/en/latest/clients/guzzle6-adapter.html
+http://docs.php-http.org/en/latest/clients/curl-client.html
+
+
+
+guzzle client Doku (gut brauchbar)
+http://docs.guzzlephp.org/en/latest/index.html
+http://guzzle.readthedocs.io/en/latest/   (wirklich die letzte Doku V6)
+
+Welche versionen gibt es (insgesamt 6)
+https://github.com/guzzle/guzzle
+
+
+//das hat wohl EOL
+http://guzzle3.readthedocs.io/index.html
